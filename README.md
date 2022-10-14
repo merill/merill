@@ -64,4 +64,8 @@ I am a dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Azure AD Shortcuts](https://merill.net/2022/10/azure-ad-shortcuts/)
+- [Graph PowerShell Conversion Analyzer](https://merill.net/2022/04/graph-powershell-conversion-analyzer/)
+- [Azure AD Nudge &lpar;Authenticator registration campaign&rpar; failing to prompt users](https://merill.net/2022/04/azure-ad-nudge-authenticator-registration-campaign-failing-to-prompt-users/)
+- [Get-MgUser_List1: Expect simple name=value query, but observe property ‘assignedLicenses’ of complex type ‘AssignedLicense’.](https://merill.net/2022/04/get-mguser_list1-expect-simple-name-value-query-but-observe-property-assignedlicenses-of-complex-type-assignedlicense/)
 <!-- BLOG-POST-LIST:END -->
