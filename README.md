@@ -64,7 +64,7 @@ I am a dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Azure AD Extensions and Attributes](https://merill.net/2023/02/azure-ad-extensions-and-attributes/)
+- [Azure AD and Microsoft Graph Extensions and Attributes](https://merill.net/2023/02/azure-ad-extensions-and-attributes/)
 - [Azure AD Shortcuts](https://merill.net/2022/10/azure-ad-shortcuts/)
 - [Graph PowerShell Conversion Analyzer](https://merill.net/2022/04/graph-powershell-conversion-analyzer/)
 - [Get-MgUser_List1: Expect simple name=value query, but observe property ‘assignedLicenses’ of complex type ‘AssignedLicense’.](https://merill.net/2022/04/get-mguser_list1-expect-simple-name-value-query-but-observe-property-assignedlicenses-of-complex-type-assignedlicense/)
