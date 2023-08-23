@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/merill/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.youtube.com/channel/UC12y0PpAR1eVaJdBhaO6dNg">
+    <a href="https://www.youtube.com/@merillx">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://twitter.com/merill">
@@ -25,7 +25,7 @@
 
 ### :woman_technologist: About Me :
 I am a dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Melbourne, Australia.
-- :telescope: I work as a Senior Program Manager at Microsoft in the Azure Active Directory team.
+- :telescope: I work as a Principal Program Manager at Microsoft in the Microsoft Entra team.
 
 - :seedling: Exploring Content Publishing.
 
