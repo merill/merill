@@ -64,8 +64,8 @@ I am a dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Graph API: Minimal permissions to read user group membership](https://merill.net/2024/09/graph-api-minimal-permissions-for-user-group-data/)
 - [Invoke-MgGraphRequest -OutputFilePath vs Out-File Performance Comparison](https://merill.net/2024/07/invoke-mgraphrequest-savefile-performance-comparison/)
 - [Filtering members in Entra groups and admin units](https://merill.net/2024/07/property-does-not-exist-as-declared-property/)
 - [Device filter &amp;gt; Device platform](https://merill.net/2023/08/device-filter-device-platform/)
-- [What I use](https://merill.net/2023/08/what-i-use/)
 <!-- BLOG-POST-LIST:END -->
