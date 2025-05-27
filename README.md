@@ -64,8 +64,8 @@ I am a dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [This blog has moved](https://merill.net/2025/04/moved/)
-- [I just launched 🦋 Bluesky.ms!](https://merill.net/2024/11/bluesky-ms/)
-- [Graph API: Minimal permissions to read user group membership](https://merill.net/2024/09/graph-api-minimal-permissions-for-user-group-data/)
-- [Invoke-MgGraphRequest -OutputFilePath vs Out-File Performance Comparison](https://merill.net/2024/07/invoke-mgraphrequest-savefile-performance-comparison/)
+- [How I create the Entra.Chat podcast](https://blog.merill.net/p/how-i-create-the-entrachat-podcast)
+- [Service Principal as a &#39;Plan B&#39; emergency access break-glass account](https://blog.merill.net/p/service-principal-as-a-plan-b-emergency)
+- [Microsoft 365 Dev Program Update](https://blog.merill.net/p/microsoft-365-dev-program-update)
+- [Using Pester to regression test Maester tests](https://blog.merill.net/p/using-pester-to-regression-test-maester)
 <!-- BLOG-POST-LIST:END -->
