@@ -64,8 +64,8 @@ I am a dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Uninstall-Graph PowerShell](https://blog.merill.net/p/uninstall-graph-powershell)
 - [How I create the Entra.Chat podcast](https://blog.merill.net/p/how-i-create-the-entrachat-podcast)
 - [Service Principal as a &#39;Plan B&#39; emergency access break-glass account](https://blog.merill.net/p/service-principal-as-a-plan-b-emergency)
 - [Microsoft 365 Dev Program Update](https://blog.merill.net/p/microsoft-365-dev-program-update)
-- [Using Pester to regression test Maester tests](https://blog.merill.net/p/using-pester-to-regression-test-maester)
 <!-- BLOG-POST-LIST:END -->
