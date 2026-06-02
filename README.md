@@ -25,7 +25,7 @@
 
 ### :woman_technologist: About Me :
 I am a dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Melbourne, Australia.
-- :telescope: I work as a Principal Program Manager at Microsoft in the Microsoft Entra team.
+- :telescope: I used to work as a Principal Program Manager at Microsoft in the Microsoft Entra team, but now I've started on my own at jozra.com
 
 - :seedling: Exploring Content Publishing.
 
